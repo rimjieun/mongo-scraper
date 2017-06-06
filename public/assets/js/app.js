@@ -23,8 +23,6 @@ $(document).ready(function() {
         $("div.articles").append(newPanel);
       }
 
-      
-
     });
 
   });
